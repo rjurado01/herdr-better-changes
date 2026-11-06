@@ -1,0 +1,21 @@
+{
+  "version": "1.3.0",
+  "place": "none",
+  "size": 368,
+  "title": "Better Changes",
+  "settings": {
+    "refresh": {
+      "status": "10s"
+    },
+    "limits": {
+      "files": 1000,
+      "diff_lines": 1500,
+      "line_length": 4000,
+      "commits_per_page": 50
+    },
+    "default": {
+      "view": "tree",
+      "diff": "inline"
+    }
+  }
+}
